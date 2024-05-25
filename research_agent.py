@@ -12,11 +12,6 @@ from autogen.agentchat import (
 )
 from autogen.coding import LocalCommandLineCodeExecutor
 
-# Tavily
-# export TAVILY_API_KEY=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
-# GROQ
-# export GROQ_API_KEY=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
-
 # Define the LLM configuration correctly
 config_list = [
     {
