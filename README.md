@@ -1,3 +1,9 @@
+# Overview
+
+Agents used to solve prompt engineering problems as well as advanced/complex algorithms current AI using HITL have
+
+HITL(Human In The Loop means you are chatting with ChatGPT or Gemini and controlling Prompt Engineering youself on the fly)
+
 #### Libraries used:
 
 * `pip3 install typing-extensions`
@@ -22,3 +28,5 @@ You may use paid LLMs of your choice, such as OpenAI / AWS Bedrock / Gemini , bu
 * Separately run research agent
 * Separately run programming agent
 * And then, lastly, run agent manager to see how the other 2 agents can be used to work together
+
+
