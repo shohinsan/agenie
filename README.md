@@ -18,3 +18,7 @@ Set .ENV variables in your project's terminal
     
 
 You may use paid LLMs of your choice, such as OpenAI / AWS Bedrock / Gemini , but I used Ollama to host local Meta's Llama3 for exploring AutoGen myself.
+
+* Separately run research agent
+* Separately run programming agent
+* And then, lastly, run agent manager to see how the other 2 agents can be used to work together
