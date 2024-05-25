@@ -1,6 +1,6 @@
 # Overview
 
-Agents used to solve prompt engineering problems as well as advanced/complex algorithms current AI using HITL have
+Agents used to solve prompt engineering problems as well as advanced/complex algorithms current AI that HITL have
 
 HITL(Human In The Loop means you are chatting with ChatGPT or Gemini and controlling Prompt Engineering youself on the fly)
 
