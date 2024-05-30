@@ -12,7 +12,6 @@ from autogen.agentchat import (
 )
 from autogen.coding import LocalCommandLineCodeExecutor
 
-# Define the LLM configuration correctly
 config_list = [
     {
         "model": os.environ.get("OPENAI_MODEL_NAME", "llama3-8b-8192"),
